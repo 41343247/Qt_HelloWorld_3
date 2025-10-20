@@ -13,6 +13,7 @@
   <property name="windowTitle">
    <string>DesignWidget</string>
   </property>
+<<<<<<< HEAD
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>
     <widget class="QPushButton" name="pushButton">
@@ -29,6 +30,8 @@
     </widget>
    </item>
   </layout>
+=======
+>>>>>>> 51c8a3ae7e8caba3f372491fdfbb20b17922e65b
  </widget>
  <resources/>
  <connections/>
