@@ -11,7 +11,7 @@ QT_END_NAMESPACE
 
 class DesignWidget : public QWidget
 {
-    Q_OBJECT
+    Q_OBJECT    //macro for qt class only
 
 public:
     DesignWidget(QWidget *parent = nullptr);
